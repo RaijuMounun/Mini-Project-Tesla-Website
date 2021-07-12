@@ -1,0 +1,148 @@
+html {
+    background: url(bg.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.logo {
+    margin-top: 70px;
+    margin-bottom: 85px;
+    margin-left: auto;
+}
+
+.kutu1 {
+    /* Kenarlık */
+    /* Genişlik */
+    width: 1025px;
+    /* yükseklik */
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu_metin {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.menu_metin:hover {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.linklerkutu {
+    width: 1025px;
+    height: 37px;
+    background-color: black;
+    padding-top: 15px;
+}
+
+.rights_kutu {
+    /* height: 30px; */
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 3%;
+    width: 100%;
+}
+
+.modelsplaid {
+    position: relative;
+}
+
+.models {
+    position: absolute;
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40pt;
+    color: black;
+    font-weight: inherit;
+}
+
+.plaid {
+    position: absolute;
+    margin-top: 118px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40pt;
+    color: white;
+    font-weight: inherit;
+}
+
+.arabab {
+    width: 89%;
+    margin-top: 45px;
+    padding-bottom: 50px;
+}
+
+.sesfoti {
+    width: 48%;
+    height: auto;
+}
+
+.arayuz {
+    width: 48%;
+    height: auto;
+    margin-left: 30px;
+}
+
+
+/* buradan sonrası önsatış */
+
+.kutu2 {
+    margin-top: 23px;
+    height: 700px;
+    width: 1025px;
+    background-color: white;
+}
+
+.p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48pt;
+    font-weight: inherit;
+    text-align: left;
+}
+
+.layer17 {
+    display: inline-block;
+    text-align: left;
+    padding-top: 45px;
+}
+
+.sipariskutu {
+    width: 434px;
+    height: 300px;
+    display: inline-block;
+    margin-left: 30px;
+    line-height: 23pt;
+    margin-bottom: 50px;
+    font-family: Arial, sans-serif, Helvetica;
+    font-size: 15pt;
+}
+
+.buton {
+    font-size: 18pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    border: 2px solid red;
+    background: none;
+    color: red;
+    padding-bottom: 13px;
+    padding-top: 12px;
+    padding-left: 14px;
+    padding-right: 14px;
+    margin-top: 38px;
+}
+
+.arabalar {
+    padding-bottom: 45px;
+}
